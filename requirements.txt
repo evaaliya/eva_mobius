@@ -1,0 +1,4 @@
+flask
+openai           # если используешь OpenAI API
+requests
+python-dotenv    # для .env и config.py
